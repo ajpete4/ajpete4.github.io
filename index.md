@@ -28,14 +28,14 @@ Economics, Human Behavior, Sustainability, Government Operations, Government Pol
 
 **CEO (Sept 2018 - Present)**
 
-Roles as the CEO of a small business involve:
+Roles as the CEO involve:
 * Developing the vision that guides the direction of the company
 * Finding opportunities to expand products and services
 * Securing funds to implement needed features across BFD’s software
 
 **Project Analyst (Sept 2014 - December 2021)**
 
-Managing all projects for implementation of electronic fisheries data collection and delivery.Example projects include:
+Managing the project life cycle for electronic applications and processes for fisheries collection and delivery. This includes being the primary contact for clients to executing contracts, project research and cultivation, project integrations with existing workflows and infrastructure, and data manipulation/translations. As a subject matter expert (SME) for technology, the following projects were successfully implemented:
 * The five Gulf Trip Ticket programs for state and federal partners
 * SERO's SEFHIER program
 * SC DNR Charter Ticket
@@ -45,7 +45,7 @@ Managing all projects for implementation of electronic fisheries data collection
 
 **Developer (Sept 2011 - June 2020)**
 
-Thanks to the company support, the road to being a self taught programmer was filled with mentors, online courses, and text books. Applications that were built as a result are:
+ Developer and architect of the company’s primary line-of-business SAAS offerings. With a focus on maintaining high levels of security, compliance, performance, and client satisfaction, the primary tech stack used involved an in-depth knowledge of .NET, SQL, HTML, CSS, JavaScript, JSON. Projects as a result of this role are:
 
 * The Gulf Logbook Pilot, *NOAA NMFS MRIP*
 * Southeast Region Headboat Survey, *NOAA NMFS SEFSC*
@@ -57,12 +57,12 @@ Thanks to the company support, the road to being a self taught programmer was fi
 
 **Customer Service (March 2020 - September 2018)**
 
-Customer support for the PC-Trip Ticket program ignited the desire to build new applications for fisheries data collection. This role quickly evolved into becoming a programmer.
+Customer support and relations for all applications and processes. This involved a deep understanding of the business domain, infrastructure, and user stories. Helping clients interact with applications provided a great opportunity to collect feedback that was then analyzed and to guide future decisions.
 
 ### Poker as a Profession
 **(January 2006 - March 2012)**
 
-Poker was an opportunity of a lifetime to set the foundation for growth in wealth, freedom, and knowledge. This experience shaped the desire for financial freedom, travel, statigic planning, and a life of meaning.
+Poker was an opportunity of a lifetime to set the foundation for growth in wealth, freedom, and knowledge. This experience shaped the desire for financial freedom, travel, strategic planning, and a life of meaning.
 
 Poker as a profession consisted of long hours of studying optimal strategies based on a certain group of players. The challenge was to pick a particular strategy(ies) based on who was at the table and how many players were in the game.
 
