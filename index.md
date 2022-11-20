@@ -15,7 +15,7 @@ Entrepreneur, Strategist, Developer, Investor
 Tackling the challenges of being the trusted source for decisions regarding people, the plant, and profits.
 
 ### Specialized in
-- Business development, technology, and fisheries.
+Business development, technology, and fisheries.
 
 
 ### Research interests
@@ -24,7 +24,7 @@ Economics, Human Behavior, Sustainability, Regulatory Processes, Technology
 
 ## Occupation
 
-### Bluefin Data (BFD)
+### Bluefin Data
 
 **CEO (Sept 2018 - Present)**
 
