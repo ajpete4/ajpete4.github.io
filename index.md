@@ -10,9 +10,9 @@ Entrepreneur, Strategist, Developer, Investor
 </div>
 
 
-## Currently
+## Bio
 
-Tackling the challenges of being the trusted source for decisions regarding people, the plant, and profits.
+Andrew is an award-winning software entrepreneur and enterprise software executive. He is best known for his work in creating a data collection application named VESL. Andrew's mission for Bluefin Data is to be the trusted source for decisions regarding people, the plant, and profits.
 
 ### Specialized in
 Business development, technology, and fisheries.
