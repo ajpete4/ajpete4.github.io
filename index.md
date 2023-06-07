@@ -3,7 +3,7 @@ layout: cv
 title: Andrew Petersen's CV
 ---
 # Andrew Petersen
-Entrepreneur, Strategist, Developer, Investor
+Entrepreneur, Strategist, Investor, Husband, Father, Traveler
 
 <div id="webaddress">
 <a href="ajpete4@gmail.com">ajpete4@gmail.com</a>
@@ -12,22 +12,25 @@ Entrepreneur, Strategist, Developer, Investor
 
 ## Bio
 
-Andrew is an award-winning software entrepreneur and enterprise software executive. He is best known for his work in creating a data collection application named VESL. Andrew's mission for Bluefin Data is to be the trusted source for decisions regarding people, the plant, and profits.
+Andrew is an award-winning business owner and enterprise software executive. He is best known for developing the team that helps progress the fishing industry towards sustainability and economic growth. This is accomplished by pushing innovative technologies that increase trust, curiosity, and courage. Andrew has been featured by Biz New Orleans New & Nobles and the New Orleans Magazine People to Watch as a business enthusiast, frequent traveler, and advocate for marine technology.
 
-### Specialized in
+Andrew's mission for Bluefin Data is to be the trusted source for decisions made in the fishing industry.
+
+### Specialties
 Business development, technology, and fisheries.
 
 
-### Research interests
-
-Economics, Human Behavior, Sustainability, Regulatory Processes, Technology
+### Interests
+Economics, Human Behavior, Innovation, Technology, Sustainability
 
 ## Occupation
 
 ### Bluefin Data
+Andrew started at Bluefin Data in the customer support role. Support of the PC-Trip Ticket program ignited conversations that uncovered the desire to build new applications for fisheries data collection. Obtaining new contracts allowed Andrew to begin the long journey of being a programmer thanks to the company support of mentors, online courses, and text books.
+
+After evolving into a developer Andrew's next challenge was to become the CEO which later came in the fall of 2018. As CEO, Andrew leveraged his experience as a technical founder to find opportunities and grow through the complexities found in the fishing world. With a primary focus on streamlining the reporting and data collection processes across the US many new opportunities and ideas began to form. Once a firm foothold is established in the US fishing industry, Andrew sees a great amount of opportunity in international markets and expanding the company's offerings to other industries.
 
 **CEO (Sept 2018 - Present)**
-
 Managing the company's overall vision, team, and operations. This includes delegating and directing agendas, driving profitability, managing company organizational structure, strategy, and internal communications. Specifics tasks include:
 - Developing the vision to guide the direction of the company
 - Developing team for execution
@@ -85,6 +88,11 @@ University of Louisiana at Lafayette, Construction Management
 
 
 ## Awards
+**2023**
+- **284,004**, Electronic Logbook for US Westcoast north Pacific Albacore Fishery, *Saltonstall-Kennedy Grant*
+- **$339,500**, Developing a Streamlined Highly Migratory Species Data
+Collection, Reporting, and Billfish Tagging Program in US
+East Coast, Gulf of Mexico, and Caribbean HMS Fisheries, *National Fish and Wildlife Foundation*
 **2022**
 
 - **$34,068**, Return 'Em Right Data Collection, *Gulf States Marine Fisheries Commission*
