@@ -90,9 +90,7 @@ University of Louisiana at Lafayette, Construction Management
 ## Awards
 **2023**
 - **284,004**, Electronic Logbook for US Westcoast north Pacific Albacore Fishery, *Saltonstall-Kennedy Grant*
-- **$339,500**, Developing a Streamlined Highly Migratory Species Data
-Collection, Reporting, and Billfish Tagging Program in US
-East Coast, Gulf of Mexico, and Caribbean HMS Fisheries, *National Fish and Wildlife Foundation*
+- **$339,500**, HMS Data Collection Program with The Billfish Foundation, *National Fish and Wildlife Foundation*
 **2022**
 
 - **$34,068**, Return 'Em Right Data Collection, *Gulf States Marine Fisheries Commission*
